@@ -1,0 +1,6 @@
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL1\bin\Debug\DAL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL1\bin\Debug\DAL1.pdb
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL1\obj\Debug\DAL1.csprojAssemblyReference.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL1\obj\Debug\DAL1.csproj.CoreCompileInputs.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL1\obj\Debug\DAL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL1\obj\Debug\DAL1.pdb

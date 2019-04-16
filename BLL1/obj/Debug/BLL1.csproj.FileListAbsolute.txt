@@ -1,0 +1,9 @@
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\obj\Debug\BLL1.csprojAssemblyReference.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\obj\Debug\BLL1.csproj.CoreCompileInputs.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\bin\Debug\BLL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\bin\Debug\BLL1.pdb
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\bin\Debug\DAL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\bin\Debug\DAL1.pdb
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\obj\Debug\BLL1.csproj.CopyComplete
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\obj\Debug\BLL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL1\obj\Debug\BLL1.pdb

@@ -1,0 +1,16 @@
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.csprojAssemblyReference.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.Home.resources
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.NewContact.resources
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.Properties.Resources.resources
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.csproj.GenerateResource.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.csproj.CoreCompileInputs.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\AppGestContact.exe.config
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\AppGestContact.exe
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\AppGestContact.pdb
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\BLL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\DAL1.dll
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\BLL1.pdb
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\bin\Debug\DAL1.pdb
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.csproj.CopyComplete
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.exe
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.pdb

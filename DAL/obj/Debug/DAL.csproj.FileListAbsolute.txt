@@ -1,0 +1,2 @@
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

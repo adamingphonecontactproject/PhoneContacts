@@ -1,0 +1,2 @@
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
