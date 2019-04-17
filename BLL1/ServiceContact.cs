@@ -14,7 +14,7 @@ namespace BLL1
         /// </summary>
         /// <param name="c">Un objet de type contact</param>
         /// <returns>Retourne True si l'ajout est ok, sinon False </returns>
-        public bool Add(Contact c)
+        public bool Add(Contact co)
         {
             try
             {

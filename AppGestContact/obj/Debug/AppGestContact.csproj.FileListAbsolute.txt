@@ -14,3 +14,6 @@ C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\
 C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.csproj.CopyComplete
 C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.exe
 C:\Users\IN-BR-020\Desktop\Exercices & Projets\AppGestionContact\AppGestContact\AppGestContact\obj\Debug\AppGestContact.pdb
+C:\Users\X1\Desktop\projet\projet contact\PhoneContacts\AppGestContact\bin\Debug\AppGestContact.exe.config
+C:\Users\X1\Desktop\projet\projet contact\PhoneContacts\AppGestContact\obj\Debug\AppGestContact.exe
+C:\Users\X1\Desktop\projet\projet contact\PhoneContacts\AppGestContact\obj\Debug\AppGestContact.pdb
